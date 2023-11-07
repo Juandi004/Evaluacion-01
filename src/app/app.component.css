@@ -1,6 +1,7 @@
 
 .imagen{
     border-color: white;
+    align-items: center;
     height: 200px;
     width: 200px;
     border-radius: 50%;
